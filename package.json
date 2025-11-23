@@ -15,7 +15,7 @@
     "oxlint": "^1.28.0",
     "prettier": "^3.6.2",
     "unocss": "^66.3.3",
-    "vitepress": "^2.0.0-alpha.13",
+    "vitepress": "^2.0.0-alpha.15",
     "vue": "^3.5.17"
   },
   "dependencies": {
