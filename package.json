@@ -20,6 +20,6 @@
   },
   "dependencies": {
     "core-js": "^3.44.0",
-    "vitepress-plugin-51la": "^0.1.0"
+    "vitepress-plugin-51la2": "^0.2.0"
   }
 }

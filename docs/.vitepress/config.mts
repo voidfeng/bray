@@ -1,7 +1,7 @@
 import { defineConfig } from 'vitepress'
 import UnoCSS from 'unocss/vite'
 import { productMenus, sidebarMenus } from './theme/config'
-import { La51Plugin } from 'vitepress-plugin-51la'
+import { La51Plugin } from 'vitepress-plugin-51la2'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
